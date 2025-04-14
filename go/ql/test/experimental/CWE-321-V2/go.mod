@@ -5,7 +5,7 @@ toolchain go1.24.1
 
 require (
 	github.com/go-jose/go-jose/v3 v3.0.0
-	github.com/golang-jwt/jwt/v5 v5.0.0
+	github.com/golang-jwt/jwt/v5 v5.2.2
 )
 
 require (
