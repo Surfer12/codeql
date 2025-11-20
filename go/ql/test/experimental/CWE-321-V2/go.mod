@@ -1,6 +1,7 @@
 module main
 
-go 1.21
+go 1.24.0
+
 toolchain go1.24.1
 
 require (
@@ -11,5 +12,5 @@ require (
 require (
 	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/stretchr/testify v1.8.3 // indirect
-	golang.org/x/crypto v0.35.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
 )
